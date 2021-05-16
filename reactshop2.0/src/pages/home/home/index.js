@@ -16,9 +16,9 @@ export default class HomeComponent extends Component {
             bMystyle: false
         }
     }
-    componentWillMount() {
-        this.handleNavStyle(this.props)
-    }
+    // componentWillMount() {
+    //     this.handleNavStyle(this.props)
+    // }
 
     componentDidMount() {}
 
